@@ -1,0 +1,514 @@
+{
+  "overall": {
+    "responses": 5632,
+    "respondents": 1200,
+    "questions": 5,
+    "date_from": "2026-09-14",
+    "date_to": "2026-10-13",
+    "regions": 5,
+    "avg_satisfaction": 3.63,
+    "feedback_with_text_pct": 44.78
+  },
+  "question_summaries": [
+    {
+      "question_id": "Q1",
+      "question": "Which candidate do you support in the student council election?",
+      "category": "Election Poll",
+      "total_responses": 1119,
+      "unique_options": 4,
+      "leading_option": "Candidate A - Aarav",
+      "leading_share_pct": 33.78,
+      "runner_up_option": "Candidate B - Bianca",
+      "runner_up_share_pct": 29.85,
+      "lead_margin_pct": 3.93,
+      "margin_of_error_95": 2.77,
+      "top2_share_pct": 63.63
+    },
+    {
+      "question_id": "Q2",
+      "question": "Which feature should we prioritise in the next release?",
+      "category": "Product Preference",
+      "total_responses": 1128,
+      "unique_options": 5,
+      "leading_option": "Faster Search & Filters",
+      "leading_share_pct": 28.01,
+      "runner_up_option": "Dark Mode & Accessibility",
+      "runner_up_share_pct": 26.77,
+      "lead_margin_pct": 1.24,
+      "margin_of_error_95": 2.62,
+      "top2_share_pct": 54.78
+    },
+    {
+      "question_id": "Q3",
+      "question": "How satisfied are you with the current service?",
+      "category": "Customer Feedback",
+      "total_responses": 1133,
+      "unique_options": 5,
+      "leading_option": "4 - Satisfied",
+      "leading_share_pct": 35.04,
+      "runner_up_option": "5 - Very Satisfied",
+      "runner_up_share_pct": 26.39,
+      "lead_margin_pct": 8.65,
+      "margin_of_error_95": 2.78,
+      "top2_share_pct": 61.43,
+      "mean_score": 3.63,
+      "median_score": 4.0,
+      "promoters_pct": 61.43,
+      "detractors_pct": 18.8,
+      "net_promoter_score": 42.63
+    },
+    {
+      "question_id": "Q4",
+      "question": "Which communication channel do you prefer for updates?",
+      "category": "Customer Feedback",
+      "total_responses": 1120,
+      "unique_options": 5,
+      "leading_option": "WhatsApp / Telegram",
+      "leading_share_pct": 38.93,
+      "runner_up_option": "Email Newsletter",
+      "runner_up_share_pct": 20.18,
+      "lead_margin_pct": 18.75,
+      "margin_of_error_95": 2.86,
+      "top2_share_pct": 59.11
+    },
+    {
+      "question_id": "Q5",
+      "question": "Which product variant would you buy?",
+      "category": "Product Preference",
+      "total_responses": 1132,
+      "unique_options": 5,
+      "leading_option": "Starter (Free)",
+      "leading_share_pct": 30.04,
+      "runner_up_option": "Pro Monthly",
+      "runner_up_share_pct": 27.12,
+      "lead_margin_pct": 2.92,
+      "margin_of_error_95": 2.67,
+      "top2_share_pct": 57.16
+    }
+  ],
+  "option_share": [
+    {
+      "index": 0,
+      "question_id": "Q1",
+      "option_selected": "Candidate A - Aarav",
+      "votes": 378,
+      "share_pct": 33.78,
+      "rank": 1
+    },
+    {
+      "index": 1,
+      "question_id": "Q1",
+      "option_selected": "Candidate B - Bianca",
+      "votes": 334,
+      "share_pct": 29.85,
+      "rank": 2
+    },
+    {
+      "index": 2,
+      "question_id": "Q1",
+      "option_selected": "Candidate C - Chen",
+      "votes": 266,
+      "share_pct": 23.77,
+      "rank": 3
+    },
+    {
+      "index": 3,
+      "question_id": "Q1",
+      "option_selected": "Undecided",
+      "votes": 141,
+      "share_pct": 12.6,
+      "rank": 4
+    },
+    {
+      "index": 4,
+      "question_id": "Q2",
+      "option_selected": "Faster Search & Filters",
+      "votes": 316,
+      "share_pct": 28.01,
+      "rank": 1
+    },
+    {
+      "index": 5,
+      "question_id": "Q2",
+      "option_selected": "Dark Mode & Accessibility",
+      "votes": 302,
+      "share_pct": 26.77,
+      "rank": 2
+    },
+    {
+      "index": 6,
+      "question_id": "Q2",
+      "option_selected": "Offline Sync",
+      "votes": 198,
+      "share_pct": 17.55,
+      "rank": 3
+    },
+    {
+      "index": 7,
+      "question_id": "Q2",
+      "option_selected": "Team Collaboration",
+      "votes": 156,
+      "share_pct": 13.83,
+      "rank": 4
+    },
+    {
+      "index": 8,
+      "question_id": "Q2",
+      "option_selected": "Lower Pricing",
+      "votes": 156,
+      "share_pct": 13.83,
+      "rank": 5
+    },
+    {
+      "index": 9,
+      "question_id": "Q3",
+      "option_selected": "4 - Satisfied",
+      "votes": 397,
+      "share_pct": 35.04,
+      "rank": 1
+    },
+    {
+      "index": 10,
+      "question_id": "Q3",
+      "option_selected": "5 - Very Satisfied",
+      "votes": 299,
+      "share_pct": 26.39,
+      "rank": 2
+    },
+    {
+      "index": 11,
+      "question_id": "Q3",
+      "option_selected": "3 - Neutral",
+      "votes": 224,
+      "share_pct": 19.77,
+      "rank": 3
+    },
+    {
+      "index": 12,
+      "question_id": "Q3",
+      "option_selected": "2 - Dissatisfied",
+      "votes": 146,
+      "share_pct": 12.89,
+      "rank": 4
+    },
+    {
+      "index": 13,
+      "question_id": "Q3",
+      "option_selected": "1 - Very Dissatisfied",
+      "votes": 67,
+      "share_pct": 5.91,
+      "rank": 5
+    },
+    {
+      "index": 14,
+      "question_id": "Q4",
+      "option_selected": "WhatsApp / Telegram",
+      "votes": 436,
+      "share_pct": 38.93,
+      "rank": 1
+    },
+    {
+      "index": 15,
+      "question_id": "Q4",
+      "option_selected": "Email Newsletter",
+      "votes": 226,
+      "share_pct": 20.18,
+      "rank": 2
+    },
+    {
+      "index": 16,
+      "question_id": "Q4",
+      "option_selected": "In-App Notifications",
+      "votes": 192,
+      "share_pct": 17.14,
+      "rank": 3
+    },
+    {
+      "index": 17,
+      "question_id": "Q4",
+      "option_selected": "SMS",
+      "votes": 146,
+      "share_pct": 13.04,
+      "rank": 4
+    },
+    {
+      "index": 18,
+      "question_id": "Q4",
+      "option_selected": "Push via Web",
+      "votes": 120,
+      "share_pct": 10.71,
+      "rank": 5
+    },
+    {
+      "index": 19,
+      "question_id": "Q5",
+      "option_selected": "Starter (Free)",
+      "votes": 340,
+      "share_pct": 30.04,
+      "rank": 1
+    },
+    {
+      "index": 20,
+      "question_id": "Q5",
+      "option_selected": "Pro Monthly",
+      "votes": 307,
+      "share_pct": 27.12,
+      "rank": 2
+    },
+    {
+      "index": 21,
+      "question_id": "Q5",
+      "option_selected": "Pro Annual",
+      "votes": 213,
+      "share_pct": 18.82,
+      "rank": 3
+    },
+    {
+      "index": 22,
+      "question_id": "Q5",
+      "option_selected": "Team Plan",
+      "votes": 189,
+      "share_pct": 16.7,
+      "rank": 4
+    },
+    {
+      "index": 23,
+      "question_id": "Q5",
+      "option_selected": "Enterprise",
+      "votes": 83,
+      "share_pct": 7.33,
+      "rank": 5
+    }
+  ],
+  "region_crosstab": [
+    {
+      "region": "Central",
+      "Candidate A - Aarav": 37.37,
+      "Candidate B - Bianca": 23.16,
+      "Candidate C - Chen": 23.68,
+      "Undecided": 15.79
+    },
+    {
+      "region": "East",
+      "Candidate A - Aarav": 29.72,
+      "Candidate B - Bianca": 27.83,
+      "Candidate C - Chen": 32.55,
+      "Undecided": 9.91
+    },
+    {
+      "region": "North",
+      "Candidate A - Aarav": 44.23,
+      "Candidate B - Bianca": 26.92,
+      "Candidate C - Chen": 16.92,
+      "Undecided": 11.92
+    },
+    {
+      "region": "South",
+      "Candidate A - Aarav": 24.42,
+      "Candidate B - Bianca": 40.31,
+      "Candidate C - Chen": 22.09,
+      "Undecided": 13.18
+    },
+    {
+      "region": "West",
+      "Candidate A - Aarav": 33.17,
+      "Candidate B - Bianca": 28.64,
+      "Candidate C - Chen": 25.63,
+      "Undecided": 12.56
+    }
+  ],
+  "top_words": [
+    {
+      "index": 0,
+      "word": "support",
+      "frequency": 441
+    },
+    {
+      "index": 1,
+      "word": "dashboard",
+      "frequency": 302
+    },
+    {
+      "index": 2,
+      "word": "add",
+      "frequency": 289
+    },
+    {
+      "index": 3,
+      "word": "mode",
+      "frequency": 239
+    },
+    {
+      "index": 4,
+      "word": "better",
+      "frequency": 232
+    },
+    {
+      "index": 5,
+      "word": "love",
+      "frequency": 231
+    },
+    {
+      "index": 6,
+      "word": "multi",
+      "frequency": 157
+    },
+    {
+      "index": 7,
+      "word": "language",
+      "frequency": 157
+    },
+    {
+      "index": 8,
+      "word": "reports",
+      "frequency": 155
+    },
+    {
+      "index": 9,
+      "word": "export",
+      "frequency": 155
+    },
+    {
+      "index": 10,
+      "word": "pdf",
+      "frequency": 155
+    },
+    {
+      "index": 11,
+      "word": "loved",
+      "frequency": 155
+    },
+    {
+      "index": 12,
+      "word": "new",
+      "frequency": 155
+    },
+    {
+      "index": 13,
+      "word": "fast",
+      "frequency": 155
+    },
+    {
+      "index": 14,
+      "word": "clean",
+      "frequency": 155
+    },
+    {
+      "index": 15,
+      "word": "mobile",
+      "frequency": 149
+    },
+    {
+      "index": 16,
+      "word": "app",
+      "frequency": 149
+    },
+    {
+      "index": 17,
+      "word": "crashes",
+      "frequency": 149
+    },
+    {
+      "index": 18,
+      "word": "sometimes",
+      "frequency": 149
+    },
+    {
+      "index": 19,
+      "word": "android",
+      "frequency": 149
+    },
+    {
+      "index": 20,
+      "word": "wish",
+      "frequency": 147
+    },
+    {
+      "index": 21,
+      "word": "loaded",
+      "frequency": 147
+    },
+    {
+      "index": 22,
+      "word": "faster",
+      "frequency": 147
+    },
+    {
+      "index": 23,
+      "word": "slow",
+      "frequency": 147
+    },
+    {
+      "index": 24,
+      "word": "networks",
+      "frequency": 147
+    },
+    {
+      "index": 25,
+      "word": "overall",
+      "frequency": 139
+    },
+    {
+      "index": 26,
+      "word": "good",
+      "frequency": 139
+    },
+    {
+      "index": 27,
+      "word": "experience",
+      "frequency": 139
+    },
+    {
+      "index": 28,
+      "word": "keep",
+      "frequency": 139
+    },
+    {
+      "index": 29,
+      "word": "improving",
+      "frequency": 139
+    }
+  ],
+  "channels": [
+    {
+      "index": 0,
+      "channel": "Email",
+      "responses": 1588,
+      "unique_respondents": 337,
+      "avg_satisfaction": 3.74,
+      "response_share_pct": 28.2
+    },
+    {
+      "index": 1,
+      "channel": "Social Media",
+      "responses": 1349,
+      "unique_respondents": 287,
+      "avg_satisfaction": 3.68,
+      "response_share_pct": 23.95
+    },
+    {
+      "index": 2,
+      "channel": "Campus Outreach",
+      "responses": 1237,
+      "unique_respondents": 263,
+      "avg_satisfaction": 3.53,
+      "response_share_pct": 21.96
+    },
+    {
+      "index": 3,
+      "channel": "QR Poster",
+      "responses": 853,
+      "unique_respondents": 181,
+      "avg_satisfaction": 3.52,
+      "response_share_pct": 15.15
+    },
+    {
+      "index": 4,
+      "channel": "Referral",
+      "responses": 605,
+      "unique_respondents": 132,
+      "avg_satisfaction": 3.59,
+      "response_share_pct": 10.74
+    }
+  ]
+}
